@@ -66,3 +66,5 @@ The analysis helped identify top performing products, products with high return 
 Project Files
 
 This repository includes the original dataset, cleaned dataset, and presentation file for the VitaCore Sales Performance Dashboard project.
+
+The dashboard design, analysis process, and business insights are presented in the PowerPoint file. Data cleaning and transformation were completed in Power Query using Power BI, including the creation of a star schema model with fact and dimension tables.
